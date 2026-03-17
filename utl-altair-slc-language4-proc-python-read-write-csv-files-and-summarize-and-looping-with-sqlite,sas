@@ -35,12 +35,12 @@ PROBLEM
      This is the 2nd line
      This is the 3rd line
 
-  2  r summarize sqlite table
+  2  python summarize sqlite table
 
      select sex avg(age) avg(height) from have group by sex
 
 
-  3  r convert sqlite table 'have' to text file using sqlite 'writefile' command
+  3  python convert sqlite table 'have' to text file using sqlite 'writefile' command
 
      d:/txt/have.txt
 
@@ -48,7 +48,7 @@ PROBLEM
      This is the 2nd line
      This is the 3rd line
 
-  4  r convert text file 'd:/txt/have.txt' to python dataframe using sqlite readfile
+  4  python convert text file 'd:/txt/have.txt' to python dataframe using sqlite readfile
 
       text
 
@@ -56,7 +56,7 @@ PROBLEM
       This is the 2nd line
       This is the 3rd line
 
-  5  iterate(loop) over numbers 1-10 and output median (5.5)
+  5  python iterate(loop) over numbers 1-10 and output median (5.5)
 
 
 OBJECTIVE
