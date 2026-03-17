@@ -1,8 +1,8 @@
-    %let pgm=utl-altair-slc-language4-proc-python-read-write-csv-files-and-summarize-and-looping-with-sqlite;
+    %let pgm=utl-altair-slc-language4-proc-python-read-write-text-files-and-summarize-and-looping-with-sqlite;
 
     %stop_submission;
 
-    Altair slc language4 proc python read write csv files and summarize and looping with sqlite
+    Altair slc language4 proc python read write text files and summarize and looping with sqlite
 
     Too long to post on a list, see gethub
     https://github.com/rogerjdeangelis/utl-altair-slc-language4-proc-python-read-write-csv-files-and-summarize-and-looping-with-sqlite
