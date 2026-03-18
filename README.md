@@ -26,7 +26,7 @@
 
       PROCESS
 
-      1  slc create sqlite table 'have' with 3 lines (sentences) and column name line
+      1  slc create sqlite table 'have' with 5 lines (sentences) and column name line
 
          d:/sqlite/mysqlite.db table have
          
